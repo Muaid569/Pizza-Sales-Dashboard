@@ -49,4 +49,5 @@ With these insights, the management team can now successfully implement data-dri
 
 ## SCREENSHORTS/DEMOS
 
-Example:https://github.com/Muaid569/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Dashboard.png
+Example:<img width="1331" height="670" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/21e71973-fd20-4757-a106-5b8d09608b0f" />
+
