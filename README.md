@@ -1,8 +1,9 @@
 # Pizza-Sales-Dashboard
-##Pizza Sales Performance & Revenue Analytics Dashboard
+## Pizza Sales Performance & Revenue Analytics Dashboard
 An interactive, data-driven Power BI dashboard designed to analyze operational efficiency, sales trends, and consumer behavior for a high-volume pizza restaurant chain.
 
-##Short Description / Purpose
+## Short Description / Purpose
+
 The Pizza Sales Analytics Dashboard converts raw transactional point-of-sale (POS) data into actionable business intelligence. This tool provides comprehensive visibility into daily revenue streams, order volumes, and menu performance. It is specifically designed for restaurant managers and operators to track key performance indicators (KPIs), identify peak operational hours, optimize inventory procurement, and discover which pizza categories and sizes are driving the most bottom-line growth.
 
 Tech Stack
